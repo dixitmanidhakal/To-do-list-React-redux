@@ -1,0 +1,33 @@
+.row {
+  width: 50%;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 2px 3px 10px 2px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.form-heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lastname {
+  margin-left: 5px;
+}
+
+.fullname {
+  margin-left: -10px;
+}
+
+.dropdown {
+  padding-left: 80vh;
+}
+
+.home {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
